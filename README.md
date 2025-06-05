@@ -85,3 +85,14 @@ Os alunos devem se organizar entre si para dividir as tarefas, colaborar na cons
 ---
 
 **Bons estudos e boa codificação! 🎯**
+
+## 🚀 Como rodar localmente
+
+1. Instale as dependências:
+   ```bash
+   npm install
+   ```
+2. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+   ```
