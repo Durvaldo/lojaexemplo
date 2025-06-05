@@ -1,0 +1,17 @@
+{
+  "name": "lojaexemplo",
+  "version": "1.0.0",
+  "description": "**PixelStore** é uma loja virtual One Page desenvolvida com React. O objetivo deste projeto é ensinar os fundamentos do React com componentes funcionais, gerenciamento de estado e estruturação de componentes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "type": "commonjs"
+}
