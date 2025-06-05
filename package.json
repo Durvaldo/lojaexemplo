@@ -4,8 +4,8 @@
   "description": "**PixelStore** é uma loja virtual One Page desenvolvida com React. O objetivo deste projeto é ensinar os fundamentos do React com componentes funcionais, gerenciamento de estado e estruturação de componentes.",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --port 3000",
-    "build": "parcel build index.html",
+    "start": "node_modules/.bin/parcel index.html --port 3000",
+    "build": "node_modules/.bin/parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
